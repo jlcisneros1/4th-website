@@ -1,0 +1,10 @@
+table,th,td{
+    border:1px solid black
+}
+body{
+    background-image:url(https://images2.alphacoders.com/130/1300980.png);/
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+}
